@@ -17,5 +17,5 @@ The following results were determined after using specific SQL queries based on 
   - The analysis identified over 1,500 Pewlett Hackard employees that are eligible for the mentorship program.
   - Of those 1,500 that are eligible for the mentorship program, over 700 of them are in a senior leadership position.
 
-![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/gonzojc/Pewlett-Hackard-Analysis/blob/main/Data/retiring.png)
 
