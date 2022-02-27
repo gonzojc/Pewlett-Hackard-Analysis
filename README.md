@@ -19,3 +19,13 @@ The following results were determined after using specific SQL queries based on 
 
 ![This is an image](https://github.com/gonzojc/Pewlett-Hackard-Analysis/blob/main/Data/retiring.png)
 
+## Pewlett Hackard Analysis Summary
+
+How many roles will there need to be filled as the "silver tsunami" begins to impact Pewlett Hackard?
+
+  * When the "silver tsunami" begins, there will be exactly 72,458 positions that will become vacated by the retiring employees.
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+  * Based on the analysis, there will be enough qualified employees ready to mentor the massive influx of new employees. There will be over 1,500 non-retiring Pewlett Hackard employees who will be eligible for the mentorship program. Additionally, now that the specific number of retiring employees has been identified, they can mentor all of the incoming new hires before finalizing their retirement.
+
